@@ -88,6 +88,4 @@ The dataset used in this project is an Excel file containing unemployment data. 
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
